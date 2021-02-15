@@ -12,7 +12,7 @@ const HeaderBody = styled.header`
 
 const Header = () => (
     <HeaderBody>
-        <h1>Movies App</h1>
+        <h1>Movies Finder</h1>
     </HeaderBody>
 )
 
